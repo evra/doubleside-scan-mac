@@ -1,0 +1,1 @@
+../../Vendor/scanline/libscanline/ScannerController.swift

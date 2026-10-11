@@ -1,0 +1,3 @@
+[submodule "Vendor/scanline"]
+	path = Vendor/scanline
+	url = https://github.com/klep/scanline.git
